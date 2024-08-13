@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    margin: 0;
+    padding-left: 2rem;
+}
+button{
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+    background-color: blue;
+}
+button:hover{
+    color: red;
+}
+#navbar{
+
+    background-color: aliceblue;
+    color:black !important;
+    height:70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+    width:100%;
+    position:fixed;
+}
