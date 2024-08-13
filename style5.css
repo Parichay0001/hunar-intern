@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+div{
+    
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar{
+
+    background-color: aliceblue;
+    color:black !important;
+    height:70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+    width:100%;
+    position:fixed;
+    margin-top: 0;
+}
+p{
+    text-align: left;
+    height: 50px;
+    width: 300px;
+}
