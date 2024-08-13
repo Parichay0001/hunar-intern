@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+
+    background-color: aliceblue;
+    color:black !important;
+    height:70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+    width:100%;
+    position:fixed;
+}
+h1{
+    text-align: center;
+  
+}
+.reg{
+    margin-top: 5rem;
+}
+div{
+    padding-left: 50px;
+    margin-left: 50px;
+    font-style: normal;
+    font-size: medium;
+}
+button:hover{
+    color: blue;
+}
+button{
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+}
